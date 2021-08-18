@@ -1,2 +1,3 @@
-# Gmail-bomber
-This is a Gmail bombing application .I f you want to do gmail bombing you can use that application  
+# gmailbomber
+This project was created by borannogolder 
+If you want to contact with me then put a email on borannogolder934@gmail.com
